@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="AboutDialog.BuiltOnDate">
         <source xml:lang="en">Built on {0}</source>
-        <note>ID: AboutDialog.BuiltOnDate</note>
+        <note>The ID string is: AboutDialog.BuiltOnDate</note>
       </trans-unit>
       <trans-unit id="AboutDialog.NoUpdates">
         <source xml:lang="en">No Updates</source>
