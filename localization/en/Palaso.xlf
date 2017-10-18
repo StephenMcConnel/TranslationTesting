@@ -33,7 +33,7 @@
         <note>{0} is the application name</note>
       </trans-unit>
       <trans-unit id="Application.ProblemStarting.General">
-        <source xml:lang="en">There was a problem starting the application which might require that you restart your computer.</source>
+        <source xml:lang="en">There was a problem starting the application which might require that you restart your computer.  Try that first.</source>
         <note>ID: Application.ProblemStarting.General</note>
       </trans-unit>
       <trans-unit id="Application.ProblemStarting.Specific">
