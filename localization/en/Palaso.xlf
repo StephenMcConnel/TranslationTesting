@@ -27,10 +27,6 @@
         <note>If you believe that, you'll believe anything!</note>
         <note>ID: AlmostDone.PhonyItem</note>
       </trans-unit>
-      <trans-unit id="Application.AlreadyRunning.General">
-        <source xml:lang="en">Another copy of the application is already running. If you cannot find it, restart your computer.</source>
-        <note>ID: Application.AlreadyRunning.General</note>
-      </trans-unit>
       <trans-unit id="Application.AlreadyRunning.Specific">
         <source xml:lang="en">Another copy of {0} is already running. If you cannot find that copy of {0}, restart your computer.</source>
         <note>ID: Application.AlreadyRunning.Specific</note>
