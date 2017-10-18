@@ -14,10 +14,10 @@
         <target />
         <note>ID: epubpreview.recording.butnotalk</note>
       </trans-unit>
-      <trans-unit id="epubpreview.preview">
+      <trans-unit id="epubpreview.previewing">
         <source xml:lang="en">Preview</source>
         <target />
-        <note>ID: epubpreview.preview</note>
+        <note>ID: epubpreview.previewing</note>
       </trans-unit>
       <trans-unit id="epubpreview.resizing">
         <source xml:lang="en">You can resize the preview by dragging the lower right corner of this simulated device. See how your book will look on screens of various sizes.</source>
