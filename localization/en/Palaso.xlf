@@ -21,6 +21,12 @@
         <source xml:lang="en">Release Notes</source>
         <note>ID: AboutDialog._releaseNotesLabel</note>
       </trans-unit>
+      <trans-unit id="AlmostDone.PhonyItem">
+        <source xml:lang="en">We are almost done testing.</source>
+        <target/>
+        <note>If you believe that, you'll believe anything!</note>
+        <note>ID: AlmostDone.PhonyItem</note>
+      </trans-unit>
       <trans-unit id="Application.AlreadyRunning.General">
         <source xml:lang="en">Another copy of the application is already running. If you cannot find it, restart your computer.</source>
         <note>ID: Application.AlreadyRunning.General</note>
