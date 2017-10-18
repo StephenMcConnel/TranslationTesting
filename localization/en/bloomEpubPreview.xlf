@@ -7,6 +7,7 @@
       </source>
         <target />
         <note>ID: epubpreview.describe</note>
+        <note>This is a new note to help the translator.</note>
       </trans-unit>
       <trans-unit id="epubpreview.recording.butnotalk">
         <source xml:lang="en">This book has some recordings, but this audio is not included in the ePUB.</source>
