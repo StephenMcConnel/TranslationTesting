@@ -2,20 +2,20 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:sil="http://sil.org/software/XLiff" version="1.2">
   <file original="Palaso.dll" source-language="en" datatype="plaintext" product-version="4.0.000.0" sil:hard-linebreak-replacement="\n">
     <body>
-      <trans-unit id="AboutDialog.BuiltOnDate">
-        <source xml:lang="en">Built on {0}</source>
-        <note>The ID string is: AboutDialog.BuiltOnDate</note>
-      </trans-unit>
-      <trans-unit id="AboutDialog.NoUpdates">
-        <source xml:lang="en">No Updates</source>
-      </trans-unit>
       <trans-unit id="AboutDialog.WindowTitle">
         <source xml:lang="en">About {0}</source>
         <note>ID: AboutDialog.WindowTitle</note>
       </trans-unit>
+      <trans-unit id="AboutDialog.BuiltOnDate">
+        <source xml:lang="en">Built on {0}</source>
+        <note>The ID string is: AboutDialog.BuiltOnDate</note>
+      </trans-unit>
       <trans-unit id="AboutDialog._checkForUpdates">
         <source xml:lang="en">Check For Updates</source>
         <note>ID: AboutDialog._checkForUpdates</note>
+      </trans-unit>
+      <trans-unit id="AboutDialog.NoUpdates">
+        <source xml:lang="en">No Updates</source>
       </trans-unit>
       <trans-unit id="AboutDialog._releaseNotesLabel">
         <source xml:lang="en">Release Notes</source>
