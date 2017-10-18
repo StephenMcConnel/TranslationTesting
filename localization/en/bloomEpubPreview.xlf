@@ -3,7 +3,7 @@
   <file original="bloomEpubPreview-en.html" datatype="pug" source-language="en">
     <body>
       <trans-unit id="epubpreview.describe">
-        <source xml:lang="en">This is an <g id="genid-1" ctype="x-html-a" html:href="https://en.wikipedia.org/wiki/ePUB">ePUB</g> (e-book) version of your book. <g id="genid-2" ctype="x-html-span" html:class="showForTalkingBooks">It contains audio, so that new readers can listen as they read.</g>
+        <source xml:lang="en">This is an <g id="genid-1" ctype="x-html-a" html:href="https://wiki.mobileread.com/wiki/EPUB">ePUB</g> (e-book) version of your book. <g id="genid-2" ctype="x-html-span" html:class="showForTalkingBooks">It contains audio, so that new readers can listen as they read.</g>
       </source>
         <target />
         <note>ID: epubpreview.describe</note>
