@@ -28,7 +28,7 @@
         <note>ID: AlmostDone.PhonyItem</note>
       </trans-unit>
       <trans-unit id="Application.AlreadyRunning.Specific">
-        <source xml:lang="en">  Another copy of {0} is already running. If you cannot find that copy of {0}, restart your computer. </source>
+        <source xml:lang="en">Another copy of {0} is already running. If you cannot find that copy of {0}, restart your computer.</source>
         <note>ID: Application.AlreadyRunning.Specific</note>
         <note>{0} is the application name</note>
       </trans-unit>
