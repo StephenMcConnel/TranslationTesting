@@ -10,10 +10,10 @@
           <target xml:lang="es-ES">Compilado el {0}</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="AboutDialog.NoUpdates" approved="yes">
+      <trans-unit id="AboutDialog.NoUpdates">
         <source xml:lang="en">No Updates</source>
         <note>ID: AboutDialog.NoUpdates</note>
-        <target xml:lang="es-ES">No hay actualizaciones</target>
+        <target xml:lang="es-ES">No hay actualizaciones por lo que vale</target>
       </trans-unit>
       <trans-unit id="AboutDialog.WindowTitle" approved="yes">
         <source xml:lang="en">About {0}</source>
