@@ -4,6 +4,7 @@
     <body>
       <trans-unit id="AboutDialog.WindowTitle">
         <source xml:lang="en">About {0}</source>
+	<target/>
         <note>ID: AboutDialog.WindowTitle</note>
       </trans-unit>
       <trans-unit id="AboutDialog.BuiltOnDate">
