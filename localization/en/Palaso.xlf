@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:sil="http://sil.org/software/XLiff" version="1.2">
-  <file original="Palaso.dll" source-language="en" datatype="plaintext" product-version="3.1.000.0" sil:hard-linebreak-replacement="\n">
+  <file original="Palaso.dll" source-language="en" datatype="plaintext" product-version="4.0.000.0" sil:hard-linebreak-replacement="\n">
     <body>
-      <trans-unit id="AboutDialog.BuiltOnDate">
-        <source xml:lang="en">Built on {0}</source>
-        <note>ID: AboutDialog.BuiltOnDate</note>
-      </trans-unit>
-      <trans-unit id="AboutDialog.NoUpdates">
-        <source xml:lang="en">No Updates</source>
-        <note>ID: AboutDialog.NoUpdates</note>
-      </trans-unit>
       <trans-unit id="AboutDialog.WindowTitle">
         <source xml:lang="en">About {0}</source>
+	<target/>
         <note>ID: AboutDialog.WindowTitle</note>
+      </trans-unit>
+      <trans-unit id="AboutDialog.BuiltOnDate">
+        <source xml:lang="en">Built on {0}</source>
+        <note>The ID string is: AboutDialog.BuiltOnDate</note>
       </trans-unit>
       <trans-unit id="AboutDialog._checkForUpdates">
         <source xml:lang="en">Check For Updates</source>
         <note>ID: AboutDialog._checkForUpdates</note>
       </trans-unit>
+      <trans-unit id="AboutDialog.NoUpdates">
+        <source xml:lang="en">No Updates</source>
+      </trans-unit>
       <trans-unit id="AboutDialog._releaseNotesLabel">
         <source xml:lang="en">Release Notes</source>
         <note>ID: AboutDialog._releaseNotesLabel</note>
       </trans-unit>
-      <trans-unit id="Application.AlreadyRunning.General">
-        <source xml:lang="en">Another copy of the application is already running. If you cannot find it, restart your computer.</source>
-        <note>ID: Application.AlreadyRunning.General</note>
+      <trans-unit id="AlmostDone.PhonyItem">
+        <source xml:lang="en">We are almost done testing.</source>
+        <target/>
+        <note>If you believe that, you'll believe anything!</note>
+        <note>ID: AlmostDone.PhonyItem</note>
       </trans-unit>
       <trans-unit id="Application.AlreadyRunning.Specific">
         <source xml:lang="en">Another copy of {0} is already running. If you cannot find that copy of {0}, restart your computer.</source>
@@ -32,7 +34,7 @@
         <note>{0} is the application name</note>
       </trans-unit>
       <trans-unit id="Application.ProblemStarting.General">
-        <source xml:lang="en">There was a problem starting the application which might require that you restart your computer.</source>
+        <source xml:lang="en">There was a problem starting the application which might require that you restart your computer.  Try that first.</source>
         <note>ID: Application.ProblemStarting.General</note>
       </trans-unit>
       <trans-unit id="Application.ProblemStarting.Specific">
