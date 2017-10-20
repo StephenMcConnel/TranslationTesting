@@ -32,9 +32,9 @@
         <note>ID: AboutDialog._releaseNotesLabel</note>
         <target xml:lang="es-ES">Notas de la versión</target>
       </trans-unit>
-      <trans-unit id="AlmostDone.PhonyItem">
+      <trans-unit id="AlmostDone.PhonyItem" approved="yes">
         <source xml:lang="en">We are almost done testing.</source>
-        <target xml:lang="es-ES" state="translated">Ya casi hemos terminado las pruebas.</target>
+        <target xml:lang="es-ES">Ya casi hemos terminado las pruebas.</target>
         <note>If you believe that, you'll believe anything!</note>
         <note>ID: AlmostDone.PhonyItem</note>
       </trans-unit>
@@ -74,10 +74,10 @@
         <note>ID: Common.CancelButton</note>
         <target xml:lang="es-ES">&amp;Cancelar</target>
       </trans-unit>
-      <trans-unit id="Common.No">
+      <trans-unit id="Common.No" approved="yes">
         <source xml:lang="en">No</source>
         <note>ID: Common.No</note>
-        <target xml:lang="es-ES" state="needs-translation">No</target>
+        <target xml:lang="es-ES">No</target>
       </trans-unit>
       <trans-unit id="Common.OKButton" approved="yes">
         <source xml:lang="en">&amp;OK</source>
