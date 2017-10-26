@@ -2,6 +2,11 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:sil="http://sil.org/software/XLiff" version="1.2">
   <file original="Palaso.dll" source-language="en" datatype="plaintext" product-version="4.0.000.0" sil:hard-linebreak-replacement="\n">
     <body>
+      <trans-unit id="AboutDialog.ANewString">
+        <source xml:lang="en">This is a new string added to Palaso.</source>
+	<target/>
+        <note>ID: AboutDialog.ANewString</note>
+      </trans-unit>
       <trans-unit id="AboutDialog.WindowTitle">
         <source xml:lang="en">About {0}</source>
 	<target/>
